@@ -2,6 +2,7 @@ li {
     font-size: large;
 }
 
+
 div.panel-heading {
    font-size: x-large; 
 }
@@ -11,6 +12,7 @@ li {
 }
 
 /* Fade transition */
+/*test */
 /*pm-app div {
     animation-duration: .5s;
     opacity: 0;
